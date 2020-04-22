@@ -5,6 +5,7 @@ I am using two pre-trained models to achieve this purpose.
 
 Facebox for face detection
 Facenet for face-recognition
+
 //Summary
 
 Face Detection is the first and essential step for Face Recognition, and it is
